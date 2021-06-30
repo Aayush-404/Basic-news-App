@@ -74,7 +74,6 @@ class _HomePageState extends State<HomePage> {
               },
               itemCount: listArticles==null?0:listArticles.length,
               ),
-
           ],
         ),
       ),
